@@ -26,3 +26,5 @@ machine1(item)
 # f = json.dumps(e)
 # if isinstance(f,str):
 #     print("correct")
+
+with open()
