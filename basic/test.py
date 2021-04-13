@@ -1,2 +1,1 @@
-import os
-print(dir(os))
+import smtplib
