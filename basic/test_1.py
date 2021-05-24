@@ -1,10 +1,19 @@
-import test
+def order(sentence):
+  # code here
+  final = []
+  s = sentence.split()
+  for i in range((len(s))):
+      for i in s:
+          if i == 1:
+            final += s
+            print(s)
+  print(final)
 
-print("This print statement from test_1")
+#   for i in split:
+#       if i.isalnum() == True:
+#         i.split()
+#         print(i)
 
-test.boolean_to_string(True)
-
-# if __name__ == '__main__':
-#     boolean_to_string(True)
-#     boolean_to_string_1(True)
-#     boolean_to_string_2(True)
+# text = "is2 Thi1s T4est 3a"
+text = "is2 Thi1s T4est 3a"
+order(text)

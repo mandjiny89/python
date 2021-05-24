@@ -1,1 +1,2 @@
-import smtplib
+import pandas_datareader
+pandas_datareader.__version__
