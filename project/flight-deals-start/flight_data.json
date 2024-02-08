@@ -1,0 +1,22 @@
+{
+  "prices": [
+    {
+      "city": "Paris",
+      "iataCode": "PAR",
+      "lowestPrice": 40,
+      "id": 2
+    },
+    {
+      "city": "Cape Town",
+      "iataCode": "CPT",
+      "lowestPrice": 378,
+      "id": 10
+    },
+    {
+      "city": "Pondicheery",
+      "iataCode": "PNY",
+      "lowestPrice": 500,
+      "id": 11
+    }
+  ]
+}
